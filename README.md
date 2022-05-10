@@ -1,16 +1,18 @@
 # Project overview:
 
 * Developed multiple models to predict house prices.
-* Performed data cleaning using 'missingno' package
+* Performed data cleaning using 'missingno' package.
 * Visualized variation of sales price column with respect to other predictor variables.
-* Optimized models using hyperparameter tuning and Grid Search
+* Optimized models using hyperparameter tuning and Grid Search.
 * Compared results of different modules.
+* Productionalized model using Flask API.
 
 # Code and Resources used:
 
 * **Python version:** 3.8.8
 * **Packages:** pandas, numpy, matplotlib, seaborn, plotly, sklearn, statsmodels, missingno
 * **Kaggle notebook:** https://www.kaggle.com/code/masumrumi/a-detailed-regression-guide-with-house-pricing/notebook#Fitting-model-(Advanced-approach)
+* **Model Productionalization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 # Data cleaning:
 
@@ -32,5 +34,9 @@
 5. Light gradient boost regression: 16,012$
 6. XGBoost regression: 15,531$
 
+# Model deployment:
 
+* Hosted an endpoint using Flask API.
+* Developed code to return the predicted value when used /predict endpoint.
+* Tested endpoint through Postman API.
 
