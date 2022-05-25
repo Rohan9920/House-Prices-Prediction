@@ -12,7 +12,7 @@
 * **Python version:** 3.8.8
 * **Packages:** pandas, numpy, matplotlib, seaborn, plotly, sklearn, statsmodels, missingno
 * **Kaggle notebook:** https://www.kaggle.com/code/masumrumi/a-detailed-regression-guide-with-house-pricing/notebook#Fitting-model-(Advanced-approach)
-* **Model Productionalization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+* **Model Productionalization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 # Data cleaning:
 
