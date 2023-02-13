@@ -23,7 +23,7 @@
 * Replaced missing values for LotFrontage with the median value of each neighbourhood.
 * Converted integer values for the columns 'MSSubClass','YrSold','MoSold' to string values.
 * Fixed skewness for some of the columns
-* Created new columns
+* Feature engineered new columns
 
 # Model results (Mean absolute error)
 
